@@ -1,5 +1,5 @@
 #accessing using positive indexing
-students = ("bosco","peter","claude","paul")
+students = ("Bosco","peter","claude","paul")
 print(students[2])
 # accessing using negative indexing
 print(students[-1])
@@ -14,3 +14,4 @@ if "grace" in teachers:
     print("yes,'grace is a teacher") 
 #repittion
     print(classes*2)
+    
