@@ -1,4 +1,4 @@
-# creating a new stack
+# Creating a new stack
 stack = []
 
 # adding elements to a stack
