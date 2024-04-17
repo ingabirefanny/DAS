@@ -9,3 +9,4 @@ A Stack is a linear data structure that holds a linear, ordered sequence of elem
 
 A queue is a linear data structure that follows the First-In-First-Out Principle ,
 The elements inserted first in the queue will be the first to be removed
+
